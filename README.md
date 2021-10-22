@@ -1,2 +1,2 @@
-# matplotlibpractice
- My HW02 assignment for CS40
+# HW 02 for CS40 - matplotlib practice
+
